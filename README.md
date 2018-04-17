@@ -2,13 +2,13 @@
 
 This project was created using [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
-#Description
+# Description
 
 Gitsearch allows a user to search a github user using their username. It returns the user information including, username, company, number of repositories, number of followers on github and the number of people they are following on github.
 
 ## Setup and installation requirements.
 
-* clone repository at [Github User](https://github.com/christinekarimi/Gitsearch).
+* clone repository at [Github User search](https://github.com/christinekarimi/Gitsearch).
 * Install Angular cli.
 * Run nmp install.
 * Install globals e.g. Typescript packages and typescript.
