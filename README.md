@@ -20,6 +20,7 @@ Gitsearch allows a user to search a github user using their username. It returns
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Technologies Used.
+
 * HTML
 * css
 * JavaScript
@@ -29,4 +30,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## License
 
-MIT License. Copyright 2017 Newton Bii.
+MIT License. Copyright 2018 Kim.
